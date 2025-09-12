@@ -1,1 +1,2 @@
+This is an important update from Branch B.
 This is the first line from Branch A.
